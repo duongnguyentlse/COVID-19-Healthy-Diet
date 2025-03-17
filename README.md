@@ -44,9 +44,6 @@ This project explores the relationship between **dietary habits** and **COVID-19
   - Interactive charts showing relationships between diet and COVID-19.
   - Heatmaps, bar charts, scatter plots for deeper insights.
 
-## 📊 Sample Visualizations
-![Power BI Dashboard](https://via.placeholder.com/600x300?text=Power+BI+COVID-19+Diet+Dashboard)
-
 ## 📈 Insights & Findings
 - **Obesity negatively affects** COVID-19 recovery, leading to **higher mortality rates**.
 - **Countries with lower malnutrition rates** tend to have **better recovery rates**.
