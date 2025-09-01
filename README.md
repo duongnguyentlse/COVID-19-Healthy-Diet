@@ -27,16 +27,16 @@ This project explores the relationship between **dietary habits** and **COVID-19
 4. Are there **geographical patterns** in the relationship between diet and COVID-19?
 
 ## Project Workflow
-### ** Data Collection**
+### Data Collection**
 - Gathered COVID-19 dietary impact data from **Kaggle**.
 - Retrieved **latitude & longitude** for countries for **geo-visualization**.
 
-### ** Data Preparation**
+### Data Preparation**
 - Merged datasets & **cleaned missing/invalid values**.
 - Standardized country names across datasets.
 - Created a **master dataset** combining key factors.
 
-### ** Data Analysis & Visualization**
+### Data Analysis & Visualization**
 - **Calculated key measures**: 
   - Recovery Rate, Mortality Rate, Active Cases.
   - Average Obesity Rate, Malnutrition Rate, Infection Rate.
